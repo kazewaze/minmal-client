@@ -1,0 +1,14 @@
+.Footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  color: #fff;
+  background-color: #000;
+}
+
+.Footer h3 {
+  font-size: 17px;
+  padding: 0px 23px;
+}
